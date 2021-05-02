@@ -1,9 +1,4 @@
 
-## Integrantes:
-
-- Geisson Ponce
-- Juan Camilo Pacheco
-
 ## Folder Structure
 
 The workspace contains two folders by default, where:

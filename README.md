@@ -1,7 +1,9 @@
-# Caso_3_Infracomp
-Caso 3 de infracomp
+# Blockchain brute force aproach using Java Security Libraries
 
-## Integrantes:
+Use of 7-space string creation methods to concatenate them with an initial text to later obtain a number of numbers equivalent to a blockchain transaction. That using Java Security libraries
+
+
+## Members:
 
 - Geisson Ponce
 - Juan Camilo Pacheco
